@@ -9,3 +9,4 @@ The app's list of countries is being rendered on a recyclerview which comes with
 To help detect the swipe-to-delete action of the user, an helper class called RecyclerItemTouchHelper was used on the recyclerview.
 Also in order not to run network calls on the User Interface thread, an AsyncTaskLoader was used. This will ensure the network request 
 does not cause the app to freeze but rather perform the network calls in the background thread. The AsyncTaskLoader also make sure that the app does not always begin fresh network request as the screen orientation of the user's device changes.
+### The app can be downloaded through this link: https://drive.google.com/open?id=1hLuZqMJ1dLyIDIDeCBrDQ-3hGK0V9Alo
