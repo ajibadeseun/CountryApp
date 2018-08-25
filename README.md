@@ -1,5 +1,5 @@
 # CountryApp
-App description
+## App description
 Country app is an app that shows the name , currency name and first official language of all the countries in the world. 
 It fetches it data from https://restcountries.eu/rest/v2/all. 
 The user of the app have the capacity to delete or remove any country from the list by simply swiping the selected country left or right.
