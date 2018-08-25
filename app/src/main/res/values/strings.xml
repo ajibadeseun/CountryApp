@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountryApp</string>
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+</resources>
